@@ -1,2 +1,2 @@
 # DataCamp-notes
-My notes from DataCamp courses.
+My notes and solutions from DataCamp courses.
